@@ -1,0 +1,8 @@
+Hello all!
+
+At this project i used html and css only so this site is not  fuctionable.
+
+At this current time 14/05/2021 i'm focusing to learn a little better css and html so i can move to the magic world of javascript :) !
+
+
+
